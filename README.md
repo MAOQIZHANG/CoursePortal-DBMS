@@ -3,7 +3,7 @@ Course project for COMP3278 DBMS of Group2. Targeting on automatic login system 
 
 To use this project, first clone the repository to your own machine by
 
-`git clone https://github.com/AArchLichKing/COMP3278-FRLS.git`
+`git clone https://github.com/MAOQIZHANG/CoursePortal-DBMS.git`
 
 If you need to use the register function(which you need to train the model using train.xml. You can get these
 files in the project.rar. The files are too big to be uploaded in Github.)
